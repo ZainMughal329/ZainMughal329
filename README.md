@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhammad zain" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad zain?logo=twitter&style=for-the-badge" alt="muhammad zain" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Application Developement**
+- 🌱 I'm a **Flutter Application Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZainMughal329](https://github.com/ZainMughal329)
 

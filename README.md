@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">A devoted UX/UI flutter developer from Sargodha,Pakistan</h3>
+<h3 align="center">A devoted Flutter developer from Lahore,Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmughal329&label=Profile%20views&color=0e75b6&style=flat" alt="zainmughal329" /> </p>
 
